@@ -1,5 +1,4 @@
 // suppress missing type declarations for global css side-effect import
-// @ts-expect-error: Missing type declarations for CSS imports
 import "./globals.css";
 import type { Metadata } from "next";
 
