@@ -14,7 +14,7 @@ import EducationItem from "@/components/EducationItem";
 import ExperienceItem from "@/components/ExperienceItem";
 import SkillBadge from "@/components/SkillBadge";
 
-import profilePicture from "@/public/profile.png";
+import profilePicture from "@/public/profile.jpg";
 
 export default function Home() {
   return (
