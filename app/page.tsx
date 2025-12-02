@@ -149,7 +149,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-gray-500 border-t border-gray-700">
-        © {new Date().getFullYear()} Duuk van den Bosch — References available upon request
+        © {new Date().getFullYear()} Duuk van den Bosch — Portfolio is a still a work in progress.
       </footer>
     </main>
   );
